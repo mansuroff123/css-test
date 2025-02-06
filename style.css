@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 70%;
+    margin: 0 auto;
+}
+
+html {
+    font-family: sans-serif;
+}
+
+.header h1 {
+    color: white;
+    padding: 10px 0;
+}
+
+.header {background-color: coral;}
+
+ul {
+    list-style-type: none;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.navbar {
+    background-color: #333;
+}
+
+.navbar a {
+    color: #fff;
+    text-decoration: none;
+    display: inline-block;
+    padding: 15px 10px;
+}
+.navbar a:hover {
+    background-color: #999;
+}
+
+
+
