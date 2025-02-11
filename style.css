@@ -41,4 +41,56 @@ ul {
 }
 
 
+.banner {
+    background-image: url("photo-1614850523011-8f49ffc73908.jpg");
+    width: 100%;
+    min-height: 300px;
+}
+
+.banner_title {
+    font-size: 50px;
+    color: #fff;
+    padding-top: 50px;
+    text-align: center;
+}
+
+.all {
+    display: flex;
+    margin: 30px 0;
+    align-items: end;
+}
+
+.welcome {
+    width: 70%;
+}
+.aside {
+    width: 30%;
+}
+
+.welcome h3 {
+    font-size: 18px;
+    color: #555;
+}
+
+.welcome p {
+    color: #555;
+}
+
+.aside p {
+    color: white;
+    background-color: #333;
+    padding: 20px;
+}
+
+
+footer {
+    background-color: #333;
+    padding: 20px 0;
+}
+
+footer p {
+    color: white;
+    text-align: center;
+}
+
 
